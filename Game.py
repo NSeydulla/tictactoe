@@ -1,6 +1,6 @@
 import pygame
 from Cell import Cell
-from settings import cell_size, indent, sc_h, sc_w
+from config import cell_size, indent, sc_h, sc_w
 from Text import text_speech
 
 class Game():

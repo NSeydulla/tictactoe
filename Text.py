@@ -1,5 +1,5 @@
 import pygame
-from settings import cell_size
+from config import cell_size
 pygame.font.init()
 font = pygame.font.Font(None, int(cell_size*0.8))
 
